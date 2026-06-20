@@ -97,14 +97,11 @@ swot-pestle-startup-analysis/
 |   `-- Startup_SWOT_PESTLE_Dashboard.xlsx
 |-- reports/
 |   |-- SWOT_PESTLE_Case_Study_Report.docx
-|   `-- SWOT_PESTLE_Case_Study_Report.pdf
-|-- guide/
-|   `-- Project_Execution_Guide.docx
 |-- screenshots/
-|   |-- dashboard_overview.png
-|   |-- swot_matrix.png
-|   `-- pestle_table.png
-`-- LICENSE
+|   |-- dashboard_overview_1.png
+|   |-- dashboard_overview_2.png
+|   `-- dashboard_overview_3.png
+
 ```
 
 ## Tech Stack
@@ -117,10 +114,7 @@ swot-pestle-startup-analysis/
 
 This project demonstrates a complete strategic-analysis workflow — from framework selection and qualitative case-study development through to a quantitative, dashboard-ready benchmarking dataset — in the same structured way Business Analysts, strategy consultants, and venture investors evaluate startup ideas before committing time or capital.
 
-## License
 
-This project is released under the MIT License. See `LICENSE` for details.
+## Author
 
-## Contact
-
-Prepared as part of an ongoing Business Analyst / Data Analytics portfolio. Feedback and suggestions are welcome via GitHub Issues or LinkedIn.
+Debarati Pal
